@@ -1,0 +1,15 @@
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\bin\Debug\net7.0\Banco_Heranca.exe
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\bin\Debug\net7.0\Banco_Heranca.deps.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\bin\Debug\net7.0\Banco_Heranca.runtimeconfig.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\bin\Debug\net7.0\Banco_Heranca.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\bin\Debug\net7.0\Banco_Heranca.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.csproj.AssemblyReference.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.AssemblyInfoInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.AssemblyInfo.cs
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\refint\Banco_Heranca.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\Banco_Heranca.genruntimeconfig.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Banco_Heranca\Banco_Heranca\obj\Debug\net7.0\ref\Banco_Heranca.dll
